@@ -6,7 +6,7 @@ import { Egreso } from './egreso';
 })
 export class EgresoService {
 
-  ingresos: Egreso[] = [
+  egresos: Egreso[] = [
     {descripcion:'Renta departamento', valor:900},
     {descripcion:'Ropa', valor:200},
   ];
